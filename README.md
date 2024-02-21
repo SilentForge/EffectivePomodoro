@@ -3,9 +3,9 @@
 
 ## Overview / Vue d'ensemble
 
-This Pomodoro Timer application is an advanced tool designed to enhance productivity through the Pomodoro Technique. By structuring work sessions around focused intervals followed by short breaks, it aims to optimize efficiency and mental acuity. Built with PyQt5 for the graphical user interface and pygame for audio notifications, it offers a robust platform for managing time effectively. / 
+This Pomodoro Timer application is an tool designed to enhance productivity through the Pomodoro Technique. By structuring work sessions around focused intervals followed by short breaks, it aims to optimize efficiency and mental acuity. Built with PyQt5 for the graphical user interface and pygame for audio notifications, it offers a robust platform for managing time effectively. / 
 
-L'application Pomodoro Timer est un outil avancé conçu pour améliorer la productivité grâce à la technique Pomodoro. En structurant les sessions de travail autour d'intervalles ciblés suivis de courtes pauses, elle vise à optimiser l'efficacité et l'acuité mentale. Construite avec PyQt5 pour l'interface graphique et pygame pour les notifications audio, elle offre une plateforme robuste pour gérer efficacement son temps.
+L'application Pomodoro Timer est un outil conçu pour améliorer la productivité grâce à la technique Pomodoro. En structurant les sessions de travail autour d'intervalles ciblés suivis de courtes pauses, elle vise à optimiser l'efficacité et l'acuité mentale. Construite avec PyQt5 pour l'interface graphique et pygame pour les notifications audio, elle offre une plateforme robuste pour gérer efficacement son temps.
 
 ## Features / Fonctionnalités
 
