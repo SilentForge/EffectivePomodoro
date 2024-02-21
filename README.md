@@ -3,7 +3,9 @@
 
 ## Overview / Vue d'ensemble
 
-This Pomodoro Timer application is an advanced tool designed to enhance productivity through the Pomodoro Technique. By structuring work sessions around focused intervals followed by short breaks, it aims to optimize efficiency and mental acuity. Built with PyQt5 for the graphical user interface and pygame for audio notifications, it offers a robust platform for managing time effectively. / L'application Pomodoro Timer est un outil avancé conçu pour améliorer la productivité grâce à la technique Pomodoro. En structurant les sessions de travail autour d'intervalles ciblés suivis de courtes pauses, elle vise à optimiser l'efficacité et l'acuité mentale. Construite avec PyQt5 pour l'interface graphique et pygame pour les notifications audio, elle offre une plateforme robuste pour gérer efficacement son temps. /
+This Pomodoro Timer application is an advanced tool designed to enhance productivity through the Pomodoro Technique. By structuring work sessions around focused intervals followed by short breaks, it aims to optimize efficiency and mental acuity. Built with PyQt5 for the graphical user interface and pygame for audio notifications, it offers a robust platform for managing time effectively. / 
+
+L'application Pomodoro Timer est un outil avancé conçu pour améliorer la productivité grâce à la technique Pomodoro. En structurant les sessions de travail autour d'intervalles ciblés suivis de courtes pauses, elle vise à optimiser l'efficacité et l'acuité mentale. Construite avec PyQt5 pour l'interface graphique et pygame pour les notifications audio, elle offre une plateforme robuste pour gérer efficacement son temps.
 
 ## Features / Fonctionnalités
 
@@ -40,7 +42,9 @@ python pomodoro_gui.py
 
 ## Usage / Utilisation
 
-Upon starting the application, configure the durations for your work and break periods through the user interface. Hit the start button to begin a focused work session. The application will notify you when it's time to take a break, allowing for a structured workday that maximizes productivity. / Après avoir démarré l'application, configurez les durées de vos périodes de travail et de pause via l'interface utilisateur. Appuyez sur le bouton de démarrage pour commencer une session de travail concentrée. L'application vous avertit lorsqu'il est temps de faire une pause, ce qui permet de structurer la journée de travail et de maximiser la productivité.
+Upon starting the application, configure the durations for your work and break periods through the user interface. Hit the start button to begin a focused work session. The application will notify you when it's time to take a break, allowing for a structured workday that maximizes productivity. / 
+
+Après avoir démarré l'application, configurez les durées de vos périodes de travail et de pause via l'interface utilisateur. Appuyez sur le bouton de démarrage pour commencer une session de travail concentrée. L'application vous avertit lorsqu'il est temps de faire une pause, ce qui permet de structurer la journée de travail et de maximiser la productivité.
 
 ## Code Documentation / Documentation du code
 
@@ -51,8 +55,12 @@ The application is divided into two primary files for clarity and maintainabilit
 
 ## Contributing / Contribuer
 
-We welcome contributions to enhance the Pomodoro Timer application. Please fork the repository, commit your changes, and submit a pull request for review. / Nous accueillons les contributions pour améliorer l'application de minuterie Pomodoro. Veuillez forker le dépôt, soumettre vos modifications et envoyer une demande de tirage pour examen.
+We welcome contributions to enhance the Pomodoro Timer application. Please fork the repository, commit your changes, and submit a pull request for review. / 
+
+Nous accueillons les contributions pour améliorer l'application de minuterie Pomodoro. Veuillez forker le dépôt, soumettre vos modifications et envoyer une demande de tirage pour examen.
 
 ## License / Licence
 
-This project is available under the MIT License, promoting open and collaborative development. See the LICENSE file in the repository for full details. / Ce projet est disponible sous la licence MIT, favorisant un développement ouvert et collaboratif. Consultez le fichier LICENSE dans le dépôt pour tous les détails.
+This project is available under the MIT License, promoting open and collaborative development. See the LICENSE file in the repository for full details. / 
+
+Ce projet est disponible sous la licence MIT, favorisant un développement ouvert et collaboratif. Consultez le fichier LICENSE dans le dépôt pour tous les détails.
