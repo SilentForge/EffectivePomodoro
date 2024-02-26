@@ -55,9 +55,9 @@ The application is divided into two primary files for clarity and maintainabilit
 
 ## Contributing / Contribuer
 
-We welcome contributions to enhance the Pomodoro Timer application. Please fork the repository, commit your changes, and submit a pull request for review. / 
+We welcome contributions to enhance the Pomodoro Timer application. You can fork the repository, commit your changes, and submit a pull request for review. / 
 
-Nous accueillons les contributions pour améliorer l'application de minuterie Pomodoro. Veuillez forker le dépôt, soumettre vos modifications et envoyer une demande de tirage pour examen.
+Nous accueillons les contributions pour améliorer l'application de minuterie Pomodoro.Vous pouvez forker le dépôt, soumettre vos modifications et envoyer une requete pour examen.
 
 ## License / Licence
 
